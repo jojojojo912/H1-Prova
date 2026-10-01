@@ -1,4 +1,4 @@
-﻿namespace CascaApi.Repository
+namespace CascaApi.Repository
 {
     public class ExemploRepository : IExemploRepository
     {

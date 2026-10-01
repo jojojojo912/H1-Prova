@@ -1,6 +1,0 @@
-@CascaApi_HostAddress = http://localhost:5201
-
-GET {{CascaApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
